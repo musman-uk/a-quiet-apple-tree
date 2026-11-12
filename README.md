@@ -39,5 +39,5 @@ Version `1.0.0` – Published
 
 <sub>© Mohammed Usman</sub>
 
-<sub>All rights reserved. No commercial use, redistribution, or derivatives.</sub>
+
 
