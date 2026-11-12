@@ -1,6 +1,6 @@
-# 🌳 Quiet Tree
+# 🌳 A Quiet Apple Tree
 
-This repository contains [Quiet Tree](https://gd.games/musman-uk/quiet-tree) - A 2D game built in GDevelop that focuses on a quiet landscape, stillness, and gentle interaction. 
+This repository contains [A Quiet Apple Tree](https://gd.games/musman-uk/a-quiet-apple-tree) - A 2D game built in GDevelop that focuses on a quiet landscape, stillness, and simple interaction. 
 
 ---
 
